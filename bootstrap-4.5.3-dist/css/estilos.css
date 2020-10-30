@@ -1,0 +1,40 @@
+body{
+  background-image: linear-gradient(to right, red , blue);
+}
+
+#contenedor{
+	background: #96e0d8;
+	height: 1000px;
+}
+#cabecera{
+	background: #c69deb;
+	height: 150px;
+}
+#cab_1{
+	background: #ab6700;
+}
+#cab_2{
+	background: #ab67ff;
+}
+
+#contenido{
+	background: #a7e099;
+	height: 600px;
+}
+#cont_1{
+	background: red
+}
+#cont_2{
+	background: green
+}
+#cont_3{
+	background: pink
+}
+#cont_4{
+	background: yellow
+}
+
+#pie{
+	background: #dbb;
+	height:150px;
+}
